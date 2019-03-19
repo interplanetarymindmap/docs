@@ -1,0 +1,3 @@
+# Interplanetary mind-map
+
+🌌🧠🗺️

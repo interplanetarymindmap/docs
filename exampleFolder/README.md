@@ -1,1 +1,0 @@
-I'm the README.md inside the `/exampleFolder`

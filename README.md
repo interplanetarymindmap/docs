@@ -41,4 +41,8 @@ The previous understanding meant that we had to start playing an [infinite game]
 
 A game of exploration and understanding, that is not going to finish at any conceivable time, but that can potentially bring great benefits on how humans organize, express and relate to each other.
 
-Because in the end, everything we do, think or feel is because of information.
+In the end, everything we do, think or feel is because of information.
+
+## Who
+
+We understand that this is a continuous, collective endeavour. It started with the internet itself and its been incubating in many people minds and projects since then. It will probably never have a unique definite form, but with this project, we hope to aggregate and find synergies with everyone pursuing the same ideals.

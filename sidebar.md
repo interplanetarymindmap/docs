@@ -1,3 +1,0 @@
-- [Min-map repo](https://github.com/interplanetarymindmap/mind-map)
-- [Mind-map discussion](https://github.com/interplanetarymindmap/mind-map/issues)
-- [Index](https://github.com/interplanetarymindmap/index)

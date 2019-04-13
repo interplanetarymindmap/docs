@@ -1,10 +1,9 @@
-![badge](https://img.shields.io/badge/This_document_is_a-aaaaaa.svg?style=flat-square)![badge](https://img.shields.io/badge/work_in_progress-ff0000.svg?style=flat-square)
-
+# Drives
 *Collection of ideas and thoughts to establish a conceptual framework to discuss the reasons that lead us to start this project.*
 
 <br><br><br>
 
-# Context
+## Context
 
 1. **Technology** is everywhere and has dramatically changed landscapes and societies <sup id="back1">[[1]](#footnote1)</sup>.
 
@@ -12,7 +11,7 @@
 
 <br><br><br>
 
-# Frustrations
+## Frustrations
 
 1. We are at the Age of **Information**, which is not the same to say that we are living in the Age of **Understanding** <sup id="back11">[[11]](#footnote11)</sup>. Information has no meaning by itself. 
 
@@ -28,7 +27,7 @@
 
 ---
 
-![badge](https://img.shields.io/badge/Draft-ff9e20.svg?style=flat-square)
+![badge](https://img.shields.io/badge/Draft_and_internal_notes-ff0000.svg?style=flat-square)
 
 Questions we ask to ourselves, pointing to ideas to explore:
 
@@ -45,7 +44,20 @@ Questions we ask to ourselves, pointing to ideas to explore:
 - Why I can't share any random piece of information using any authentication logic I please?
     > identity
 
-And more concepts and ideas to continue developing:
+The ultimate reasons for why these questions do not have a satisfying answer are complex, but they can be probably separated into two groups:
+
+- Humans playing finite games and not pursuing a long term collective future.
+- Unexising or immature technology, probably not fully developed because of the first reason.
+
+The previous understanding meant that we had to start playing an [infinite game](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games).
+
+A game of exploration and understanding, that is not going to finish at any conceivable time, but that can potentially bring great benefits on how humans organize, express and relate to each other.
+
+**In the end, everything we do, think or feel is because of information.**
+
+—
+
+Other concepts and ideas to continue developing:
 - echo chambers
 - misinformation (e.g. fake news)
 

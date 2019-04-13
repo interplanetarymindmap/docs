@@ -1,4 +1,4 @@
-# Interplanetary mind-map
+# InterPlanetary Mind Map
 
 Hey, we're concentrating content in this page.
 

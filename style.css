@@ -4,6 +4,10 @@ body {
     font-size: 14px;
 }
 
+.content {
+    padding-top: 30px;
+}
+
 a {
     color: blue;
 }
@@ -19,6 +23,7 @@ a:hover, .anchor span:hover {
 .anchor {
     color: black;
     margin-top: 16px;
+    margin-bottom: 16px;
 }
 
 blockquote {
@@ -58,6 +63,7 @@ small {
 
 .sidebar {
     width: 200px;
+    padding-top: 78px;
 }
 
 

@@ -1,3 +1,5 @@
 - [InterPlanetary Mind Map](/)
 - [Drives](drives.md)
+- [Tools](tools.md)
+- [Research](research.md)
 - [Team](team.md)
